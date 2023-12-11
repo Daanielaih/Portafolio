@@ -40,7 +40,7 @@ const Footer = () => {
         {` `}
         <div sx={{ mx: 1 }}>by</div>
         {` `}
-        Danielai3
+        Danielai1
       </Flex>
     </Box>
   )
