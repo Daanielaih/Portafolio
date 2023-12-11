@@ -10,7 +10,7 @@ const config: GatsbyConfig = {
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-cara/gatsby-config.mjs
     siteTitle: `Portafolio`,
     siteTitleAlt: `Portafolio`,
-    siteHeadline: `Portafolio`,
+    siteHeadline: `Portafolio de danielai`,
     siteUrl: `https://cara.lekoarts.de`,
     siteDescription: `Vida de danielai`,
     siteImage: `/banner.jpg`,
